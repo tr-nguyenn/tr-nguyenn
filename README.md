@@ -1,3 +1,9 @@
+## 👋 Hi there, I'm Nguyễn Trung Nguyên
+💻 Full-Stack Developer | 🎓 IT Student  
+🚀 Passionate about building real-world systems & APIs
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,vue,angular" />
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyenpttc2007/?locale=vi_VN) 
