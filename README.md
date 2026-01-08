@@ -14,6 +14,11 @@
 ### 🛠️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
+
+
 
 
 ## 🌐Socials
