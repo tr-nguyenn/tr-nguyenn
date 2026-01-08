@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,vue,angular" />
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=dotnet" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
 
 
 ## 🌐Socials
